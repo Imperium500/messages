@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say language="fr-FR" voice="alice">Bonjour, ceci est un message d'exemple en français. Merci de votre attention.</Say>
+</Response>
